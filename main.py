@@ -13,5 +13,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print("文件修改了")
-    print("这是分支")
+    print("这是主分支")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
